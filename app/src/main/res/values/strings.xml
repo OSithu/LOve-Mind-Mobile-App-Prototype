@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">LOveMind</string>
+    <string name="username">Belami</string>
+    <string name="hometopic">LOve Mind Home</string>
+    <string name="hometitle">  Always See Beautiful Things</string>
+    <string name="hometitle2">Listen To the Calm Music</string>
+    <string name="music1name">Take care of you</string>
+    <string name="music1artist">Admina</string>
+    <string name="music1rate">114k steams</string>
+    <string name="music2name">The stranger inside you</string>
+    <string name="music2artist">Jeane Lebras</string>
+    <string name="music2rate">60.5k steams</string>
+    <string name="music3name">Beauty mind </string>
+    <string name="music4name">Calm mind </string>
+    <string name="music3artist">Jacob Givson</string>
+    <string name="music3rate">44.3k steams</string>
+    <string name="musictitle">Music Heals Your Soul</string>
+    <string name="recomend">Recommend for you</string>
+    <string name="imagetopic">See Calm Things</string>
+    <string name="logintopic">Get Started</string>
+    <string name="logintopic2">Mind Relaxation</string>
+    <string name="username1">Enter Username</string>
+    <string name="username2">Username</string>
+    <string name="password1">Enter Password</string>
+    <string name="password2">Password</string>
+    <string name="loginbtn">Login</string>
+    <string name="company">Powered By LOve</string>
+
+
+</resources>
